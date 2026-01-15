@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+    height: 100%;
+}
+header{
+ background-color: blue;
+ color: white;
+ height: 170px;
+ width: 100%;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+img{
+    height: 100px;
+    width: 100%;
+    border-radius: 10%;
+    border: 2px solid black;
+}
+form{
+    background-color: black;
+    height: 120px;
+    width: 100%;
+      text-align: center;
+    padding-top: 30px;
+}
+nav a{
+    color: white;
+    margin: 20px;
+    text-decoration: none;
+    
+}
+.aside{
+    background-color: lightgrey;
+    height: 500px;
+    width: 20%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-right: 100%;
+}
+.aside{
+  display: flex;
+}
+
+.aside{
+  margin-right:900px;
+  width: 40%;
+  margin-top: auto;
+  margin-left: auto;
+}
+
